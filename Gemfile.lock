@@ -126,7 +126,7 @@ GEM
       sexp_processor (~> 4.8)
     globalid (1.0.0)
       activesupport (>= 5.0)
-    google-protobuf (3.21.4-x86_64-linux)
+    google-protobuf (3.21.7-x86_64-linux)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     ice_nine (0.11.2)
